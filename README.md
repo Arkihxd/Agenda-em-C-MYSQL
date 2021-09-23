@@ -11,7 +11,7 @@
 ## Como rodar o projeto
 ```
 * Configurar na linha 25 a conexão com o seu banco de dados
-![img](https://i.imgur.com/TcsCzdZ.png)
+
 
 * Importar as tabelas do arquivo bancoDeDados.sql
 
@@ -21,7 +21,7 @@
     ./projetoAgenda
 ```
 ```
-
+![img](https://i.imgur.com/TcsCzdZ.png)
 ### Modelo Relacional do Projeto
 ![img](https://i.imgur.com/w3o23Ty.png)
 
